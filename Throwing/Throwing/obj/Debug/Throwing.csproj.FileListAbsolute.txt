@@ -1,0 +1,15 @@
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\bin\Debug\Throwing.exe.config
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\bin\Debug\Throwing.exe
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\bin\Debug\Throwing.pdb
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\MainWindow.g.cs
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\App.g.cs
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing_MarkupCompile.cache
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing_MarkupCompile.lref
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\MainWindow.baml
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.g.resources
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.exe
+C:\Users\Futo Richard\Desktop\Szakdolgozat próbálgatás\Throwing\Throwing\obj\Debug\Throwing.pdb
